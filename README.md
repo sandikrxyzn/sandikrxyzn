@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandi MiXyz</h1>
 <h3 align="center">I am a student🍀.</h3>
-
+<h1 align="center">350585104</h1>
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://s.helo-app.com/hybrid/ramadan22/backflow?invite_code=D964365714&channel=whatsapp" target="blank"><img align="center"
+  <a href="https://sck.io/Bd600lrL" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
